@@ -12,4 +12,4 @@ use App\Controller\PageController;
 $pageController = new PageController();
 
 // appel de la methode home de la class PageController()
-$pageController->home();
+$pageController->about();
